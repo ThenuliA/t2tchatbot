@@ -1,4 +1,4 @@
-DATE: 2026-03-14
+DATE: 2026-04-08
 ===WEBSITE DATA===
 --- MAIN PAGE ---
 Theory to Trade by TRACE
@@ -436,4 +436,27 @@ project.
 Additional Value: ● 4 Months of mentor-driven industry project ● Real clients, feedback loops and deliverables ● Higher employability and demonstrable skill portfolio
 Web: www.trace.lk Mobile: 077 540 8966 Email: t2t@trace.lk
 ===EVENTS DATA===
-No upcoming events available.
+- Monetize Your Skills & Work Remotely! (Date: Wed, 12 Mar 2025)
+  Learn how to monetize your existing skills globally and secure high-paying remote opportunities.
+- 🚀 Freelancing 2.0: Scale & Earn More! 🚀 (Date: Wed, 19 Mar 2025)
+  Level up your freelancing career with proven strategies for attracting high-value clients, smart pricing, and building sustainable income streams.
+- International Film Business and Creative Strategy Masterclass (Date: Sat, 29 Mar 2025)
+  Learn what the global film market demands and master the art of pitching. Get a chance to present to industry professionals and win mentorship opportunities.
+- AI Unlocked : Your first step into the future (Date: Sun, 30 Mar 2025)
+  A comprehensive workshop to start your AI journey with guidance from industry experts and hands-on learning experiences.
+- Social Media Marketing (Date: Thu, 8 May 2025)
+  Master proven social media strategies to build your brand and reach more customers. No fancy tools needed; just the right plan and simple execution.
+- Navigate the Modern IT Landscape (Date: Wed, 15 Oct 2025)
+  Discover the latest trends in the IT industry and learn how to navigate modern tech career paths with confidence.
+- Architect Like a Pro (Date: Fri, 31 Oct 2025)
+  Master the core principles of software architecture to design, build, and maintain highly scalable and robust software systems.
+- AI Work Week ! (Date: Tue, 11 Nov 2025)
+  A practical, project-driven week designed to turn your AI curiosity into real experience. Don’t just learn AI. Build with it.
+- Growth Mindset and Resilience (Date: Fri, 12 Dec 2025)
+  Calling all Sri Lankan undergraduates—It's time to prioritize discipline over motivation, believe in progress, and grow through what you go through.
+- Empowering the Next Generation of Entrepreneurs (Date: Mon, 15 Dec 2025)
+  Be inspired by entrepreneurs who started just like you, and discover how you can build your own journey.
+- The Entrepreneurial Path (Date: Wed, 17 Dec 2025)
+  A candid conversation on building, leading, and learning through real entrepreneurial journeys.
+- Research Excellence Workshop (Date: Sat, 7 Mar at 09:30)
+  A practical workshop to help students and researchers avoid common mistakes and complete research with confidence.

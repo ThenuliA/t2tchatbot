@@ -1,0 +1,18 @@
+# FastAPI and Server
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+
+# Google Gemini AI
+google-genai==0.3.0
+
+# Web scraping and data fetching
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# PDF Processing
+pypdf==5.1.0
+
+# Environment and utilities
+python-dotenv==1.0.1
+pydantic==2.10.3
+
